@@ -1,7 +1,7 @@
 #12 Currency Conversion for International Client Billing
 
 amount_in_inr=float(input("Enter amonut : "))
-conversion_rate=float(input("Enter Convertion rate : "))
+conversion_rate=float(input("Enter Convertion rate : "))#87
 
 
 #calculating amount in usd 

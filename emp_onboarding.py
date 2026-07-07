@@ -8,8 +8,6 @@ print(list)
 list.append("cabbin allocated")
 print(list)
 
-
-
 # adding task using insert()
 list.insert(0,"cabbin allocated")
 print(list)
