@@ -31,6 +31,36 @@ print(f"\tNet Salary (Gross - TAX){' '*55}{NET:,.2f}")
 print("--------------------------------------------------------------------------------------------------------------------------------")
 print("\t\t\t\t\t\tThank you for your hardwork and dedication!")
 
+"""
+ ABC SOLLUTION PVT.LTD.
+                                                ----------------------
+
+
+                                                 Employee Salary Slip
+
+
+        Employee Name   :       Rahul Sharma                            Date    :       20 May 2025
+        Employee ID     :       10123                                   Month   :        May 2025
+        Department      :       Software Development
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+        Salary Detials                                                                 AMOUNT(INR)
+        HRA                                                                            15,000.00
+        DA                                                                             10,000.00
+        Gross Salary (Basic+HRA+DA)                                                    75,000.00
+        Tax                                                                            7,500.00
+--------------------------------------------------------------------------------------------------------------------------------
+        Net Salary (Gross - TAX)                                                       67,500.00
+--------------------------------------------------------------------------------------------------------------------------------
+                                                Thank you for your hardwork and dedication!
+PS E:\AIML_work> 
+
+
+
+
+"""
+
 
 
 

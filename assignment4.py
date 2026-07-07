@@ -14,6 +14,7 @@ Regestration_Fee=float(input("Enter Regestration Fee:"))
 
 Total_Amount_Payable=Consulation_Fee+Regestration_Fee
 #displaying information card
+print("\n")
 print("\t\t\tCITY CARE HOSPITAL")
 print("\t\t\tPatienet Information card")
 print("----------------------------------------------------------------------------------")

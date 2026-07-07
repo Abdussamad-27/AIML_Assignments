@@ -6,7 +6,7 @@ while True:
     if Mobile_name.lower()=="stop":
         break
     Mobile_price=float(input("Enter mobile price "))
-    Mobile_quantity=float(input("Enter mobile price "))
+    Mobile_quantity=float(input("Enter mobile quantity  "))
 
 
     print(f"Mobile price: {Mobile_price}")
