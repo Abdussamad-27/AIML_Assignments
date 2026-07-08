@@ -11,6 +11,7 @@ Regestration_list.remove("Ravi")
 
 print("Regestration_list after removing  duplicate regestrations : ",Regestration_list)
 
+
 #clearing regestration list after completion of event using clear()
 Regestration_list.clear()
 print("Regestration_list after clearing  : ",Regestration_list)
