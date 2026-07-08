@@ -4,6 +4,7 @@ Sales=[1200,1298,890,7600,678,77]
 print("Sales without Sorting :",Sales)
 
 
+
 #sorting in ascending order using sort()
 Sales.sort()
 print("Sales with Sorting :",Sales)
