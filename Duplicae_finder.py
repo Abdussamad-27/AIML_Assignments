@@ -9,6 +9,7 @@ cv9_count=product_codes.count("cv9")
 print(f"code cv9 repeated for {cv9_count}  times.")
 #finding first occurance code using 
 cv9_firstOccurance=product_codes.index("cv9")
+
 print(f"code cv9 presented at position {cv9_firstOccurance}.")
 
 user_input=input("Enter code check how many time it is repeated:")
