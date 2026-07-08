@@ -3,6 +3,7 @@
 Regestration_list=["Rahul","Ravi","Rohit","Roy","Rahul","Sam","Ravi","Ram","Ankit"]
 
 # Regestration_list before having duplicate regestrations
+
 print("Regestration_list before having duplicate regestrations : ",Regestration_list)
 
 #Removing duplicate Regestrations using remove()
