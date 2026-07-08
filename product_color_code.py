@@ -6,6 +6,7 @@ paint_dict={
     (254,0,0):7,(0,254,0):9,(0,0,254):19
 }
 #taking rgb values from users
+
 r=int(input("Enter rgb value for R(Red):"))
 g=int(input("Enter rgb value for G(Green):"))
 b=int(input("Enter rgb value for B(Blue):"))
