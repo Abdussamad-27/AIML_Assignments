@@ -7,6 +7,7 @@ task=tasks.pop(0)
 #Assigning tasks wihch we popped from pending tasks
 assigned_tasks=[task]
 print("assigned tasks:",assigned_tasks)
+
 #created a list of new tasks
 new_tasks=["database connectivity","api integration","testing","deploying "]
 print("New tasks : ",new_tasks)
