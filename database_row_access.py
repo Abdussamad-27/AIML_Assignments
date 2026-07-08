@@ -14,6 +14,7 @@ transactions = (
 customer_id = "C001"
 
 # Count transactions for the given customer
+
 customer_list = ()
 
 for record in transactions:
