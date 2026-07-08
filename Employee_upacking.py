@@ -5,6 +5,7 @@ employee=("emp_id","name","Department","Salary")
 #tuple upacking
 
 Emp_id,Name,Department,Salary=employee
+
 #initializing value
 Emp_id=23
 Name="Sam Wilson"
