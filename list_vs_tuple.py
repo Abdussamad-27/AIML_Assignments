@@ -7,6 +7,7 @@
 task_queue = ["Check Emails", "Prepare Report", "Attend Meeting"]
 
 # Adding a new task
+
 task_queue.append("Submit Project")
 
 print("Employee Task Queue (List):")
